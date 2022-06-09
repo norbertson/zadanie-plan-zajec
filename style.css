@@ -1,0 +1,116 @@
+@media screen and (min-width: 800px) {
+   
+    }
+
+.godziny
+{
+background-color: rgb(209, 173, 106);
+width: 13%;
+text-align: center;
+border-radius: 10px;
+padding: 2px;
+float: left;
+margin: 1.6%;
+}
+
+.godziny2{
+
+    display: none;
+}
+
+.godziny3
+{
+    background-color: wheat;
+    border-radius: 10px;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    margin: 8px;
+    float: left;
+
+}
+.dzien
+{
+background-color: rgb(209, 173, 106);
+width: 13%;
+text-align: center;
+border-radius: 10px;
+padding: 2px;
+float: left;
+margin: 1.6%;
+}
+.dzientyg
+{
+    background-color: wheat;
+    border-radius: 10px;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    margin: 8px;
+    float: left;
+
+
+}
+@media screen and (max-width: 800px) {
+   
+    .godziny
+{
+background-color: rgb(209, 173, 106);
+width: 45%;
+text-align: center;
+border-radius: 10px;
+padding: 2px;
+float: left;
+margin: 1.6%;
+}
+
+.godziny2{
+
+   float:left;
+   width: 45%;
+    background-color: rgb(209, 173, 106);
+    width: 45%;
+    text-align: center;
+    border-radius: 10px;
+    padding: 2px;
+    float: left;
+    margin: 1.6%;
+    
+   
+}
+
+.godziny3
+{
+    background-color: wheat;
+    border-radius: 10px;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    margin: 8px;
+    float: left;
+
+}
+.dzien
+{
+background-color: rgb(209, 173, 106);
+width: 45%;
+text-align: center;
+border-radius: 10px;
+padding: 2px;
+float: right;
+margin: 1.6%;
+
+}
+.dzientyg
+{
+    background-color: wheat;
+    border-radius: 10px;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    margin: 8px;
+    float: left;
+
+
+}
+}
